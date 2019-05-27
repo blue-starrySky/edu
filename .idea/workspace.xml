@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5e0f62-b100-4332-b60b-eb5b2eed6916" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2153883_xn--5vrwma.com.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2153883_xn--5vrwma.com.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uwsgiconfig.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload_pictrues.py" beforeDir="false" afterPath="$PROJECT_DIR$/upload_pictrues.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload_pictrues.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uwsgiconfig.ini" beforeDir="false" afterPath="$PROJECT_DIR$/uwsgiconfig.ini" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/upload_pictrues.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="410">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="e#0#102#0" expanded="true" />
               </folding>
@@ -36,9 +35,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uwsgiconfig.ini">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -50,6 +53,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/upload_pictrues.py" />
+        <option value="$PROJECT_DIR$/uwsgiconfig.ini" />
       </list>
     </option>
   </component>
@@ -144,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558949976155</updated>
-      <workItem from="1558949978769" duration="1673000" />
+      <workItem from="1558949978769" duration="3290000" />
     </task>
     <task id="LOCAL-00001" summary="添加图片下载功能">
       <created>1558950090433</created>
@@ -167,11 +171,25 @@
       <option name="project" value="LOCAL" />
       <updated>1558950483719</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加图片下载功能">
+      <created>1558951694729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558951694729</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加图片下载功能">
+      <created>1558951718444</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558951718444</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1673000" />
+    <option name="totallyTimeSpent" value="3290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1785" y="56" width="1400" height="831" extended-state="0" />
@@ -207,6 +225,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加图片下载功能" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -215,15 +243,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/uwsgiconfig.ini">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/upload_pictrues.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#0#102#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
