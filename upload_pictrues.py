@@ -1,8 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for, make_response, jsonify, Response
 from werkzeug.utils import secure_filename
 import os
-import cv2
-
 from datetime import timedelta
 
 # 设置允许的文件格式
