@@ -11,7 +11,7 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1] in ALLOWED_EXTENSIONS
 
 
-app = Flask(__name__)
+app = Flask(__name__,static_folder="/root/edu/")
 # 设置静态文件缓存过期时间
 app.send_file_max_age_default = timedelta(seconds=1)
 
@@ -62,4 +62,5 @@ def index(imageid):
 if __name__ == '__main__':
 # app.debug = True
 
-    app.run(host="0.0.0.0",port=5000,ssl_context=('2153883_xn--5vrwma.com.pem', '2153883_xn--5vrwma.com.key'),debug=True)
+    # app.run(host="0.0.0.0",port=5555,ssl_context=('2153883_xn--5vrwma.com.pem', '2153883_xn--5vrwma.com.key'))
+    app.run(host="0.0.0.0",port=5555)
