@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*
 import logging
-from wechatpy.utils import check_signature
 import hashlib
 from flask import Flask, render_template, request, redirect, url_for, make_response, jsonify, Response
 from werkzeug.utils import secure_filename
@@ -86,7 +85,25 @@ def wx():
         logging.warning("hashcode != signature")
         return ""
 
-#app.run(host="127.0.0,1",port=5555)
+
+
+from werobot import WeRoBot
+robot = WeRoBot()
+robot.config["APP_ID"] = "wx70c92b390dfb5b31"
+robot.config["APP_SECRET"] = "5dbdbdcaebee4ccb61ab6478be17ded9"
+
+client = robot.client
+client.create_menu({
+    "button":[{
+         "type": "click",
+         "name": "今日歌曲",
+         "key": "music"
+    }]
+})
+@robot.key_click("music")
+def music(message):
+    return '你点击了“今日歌曲”按钮'
+
 if __name__ == '__main__':
 # app.debug = True
 
