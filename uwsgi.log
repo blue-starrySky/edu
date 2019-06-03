@@ -1,0 +1,761 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 27 23:04:04 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5555 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.5 (default, Apr  9 2019, 14:30:50)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xbe1f30
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+added ../ to pythonpath.
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 21317)
+spawned uWSGI worker 1 (pid: 21318, cores: 1)
+spawned uWSGI worker 2 (pid: 21319, cores: 1)
+spawned uWSGI worker 3 (pid: 21320, cores: 1)
+spawned uWSGI worker 4 (pid: 21321, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 27 23:06:06 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5555 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.5 (default, Apr  9 2019, 14:30:50)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1195fb0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+added ../ to pythonpath.
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 21339)
+spawned uWSGI worker 1 (pid: 21340, cores: 1)
+spawned uWSGI worker 2 (pid: 21341, cores: 1)
+spawned uWSGI worker 3 (pid: 21342, cores: 1)
+spawned uWSGI worker 4 (pid: 21343, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 27 23:10:02 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5555 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.5 (default, Apr  9 2019, 14:30:50)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x2677fb0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+added ../ to pythonpath.
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 21374)
+spawned uWSGI worker 1 (pid: 21375, cores: 1)
+spawned uWSGI worker 2 (pid: 21376, cores: 1)
+spawned uWSGI worker 3 (pid: 21377, cores: 1)
+spawned uWSGI worker 4 (pid: 21378, cores: 1)
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+--- no python application found, check your startup logs for errors ---
+{address space usage: 190939136 bytes/182MB} {rss usage: 6664192 bytes/6MB} [pid: 21375|app: -1|req: -1/1] 106.121.12.76 () {48 vars in 872 bytes} [Mon May 27 23:28:22 2019] GET /down/jushi/banner/mendian.jpeg => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Mon May 27 23:29:43 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:5555).
+bind(): Address already in use [core/socket.c line 769]
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+--- no python application found, check your startup logs for errors ---
+{address space usage: 190939136 bytes/182MB} {rss usage: 6778880 bytes/6MB} [pid: 21375|app: -1|req: -1/2] 106.121.12.76 () {48 vars in 872 bytes} [Mon May 27 23:29:47 2019] GET /down/jushi/banner/mendian.jpeg => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:32:44 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5555 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.5 (default, Apr  9 2019, 14:30:50)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x24dbfb0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+added ../ to pythonpath.
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25599)
+spawned uWSGI worker 1 (pid: 25600, cores: 1)
+spawned uWSGI worker 2 (pid: 25601, cores: 1)
+spawned uWSGI worker 3 (pid: 25602, cores: 1)
+spawned uWSGI worker 4 (pid: 25603, cores: 1)
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+--- no python application found, check your startup logs for errors ---
+{address space usage: 190939136 bytes/182MB} {rss usage: 6668288 bytes/6MB} [pid: 25602|app: -1|req: -1/1] 61.149.179.190 () {48 vars in 872 bytes} [Tue May 28 11:34:03 2019] GET /down/jushi/banner/mendian.jpeg => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:39:08 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5555 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.5 (default, Apr  9 2019, 14:30:50)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xd892f0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+added ../ to pythonpath.
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25682)
+spawned uWSGI worker 1 (pid: 25683, cores: 1)
+spawned uWSGI worker 2 (pid: 25684, cores: 1)
+spawned uWSGI worker 3 (pid: 25685, cores: 1)
+spawned uWSGI worker 4 (pid: 25686, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:49:58 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:5555).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:50:41 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:5555).
+bind(): Address already in use [core/socket.c line 769]
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+--- no python application found, check your startup logs for errors ---
+{address space usage: 190935040 bytes/182MB} {rss usage: 6668288 bytes/6MB} [pid: 25686|app: -1|req: -1/1] 61.149.179.190 () {48 vars in 872 bytes} [Tue May 28 11:50:48 2019] GET /down/jushi/banner/mendian.jpeg => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:53:53 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:5555).
+bind(): Address already in use [core/socket.c line 769]
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:54:14 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5555 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.5 (default, Apr  9 2019, 14:30:50)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1e43fb0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+added ../ to pythonpath.
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 27472)
+spawned uWSGI worker 1 (pid: 27473, cores: 1)
+spawned uWSGI worker 2 (pid: 27474, cores: 1)
+spawned uWSGI worker 3 (pid: 27475, cores: 1)
+spawned uWSGI worker 4 (pid: 27476, cores: 1)
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+--- no python application found, check your startup logs for errors ---
+{address space usage: 190939136 bytes/182MB} {rss usage: 6664192 bytes/6MB} [pid: 27476|app: -1|req: -1/1] 61.149.179.190 () {48 vars in 872 bytes} [Tue May 28 11:54:37 2019] GET /down/jushi/banner/mendian.jpeg => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:55:40 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5555 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.5 (default, Apr  9 2019, 14:30:50)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0xee8fb0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+added ../ to pythonpath.
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 27517)
+spawned uWSGI worker 1 (pid: 27518, cores: 1)
+spawned uWSGI worker 2 (pid: 27519, cores: 1)
+spawned uWSGI worker 3 (pid: 27520, cores: 1)
+spawned uWSGI worker 4 (pid: 27521, cores: 1)
+  File "./run.py", line 6
+SyntaxError: Non-ASCII character '\xe8' in file ./run.py on line 6, but no encoding declared; see http://www.python.org/peps/pep-0263.html for details
+unable to load app 0 (mountpoint='') (callable not found or import error)
+--- no python application found, check your startup logs for errors ---
+{address space usage: 190939136 bytes/182MB} {rss usage: 6664192 bytes/6MB} [pid: 27520|app: -1|req: -1/1] 61.149.179.190 () {48 vars in 872 bytes} [Tue May 28 11:55:44 2019] GET /down/jushi/banner/mendian.jpeg => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:58:06 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+probably another instance of uWSGI is running on the same address (127.0.0.1:5555).
+bind(): Address already in use [core/socket.c line 769]
+ImportError: No module named py
+unable to load app 0 (mountpoint='') (callable not found or import error)
+--- no python application found, check your startup logs for errors ---
+{address space usage: 241889280 bytes/230MB} {rss usage: 17403904 bytes/16MB} [pid: 27520|app: -1|req: -1/2] 61.149.179.190 () {48 vars in 872 bytes} [Tue May 28 11:58:16 2019] GET /down/jushi/banner/mendian.jpeg => generated 21 bytes in 117 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+*** Starting uWSGI 2.0.18 (64bit) on [Tue May 28 11:58:28 2019] ***
+compiled with version: 4.8.5 20150623 (Red Hat 4.8.5-36) on 05 May 2019 09:39:55
+os: Linux-3.10.0-514.26.2.el7.x86_64 #1 SMP Tue Jul 4 15:04:05 UTC 2017
+nodename: izwz94rtl1gqupbnv9tigrz
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 1
+current working directory: /root/edu
+detected binary path: /usr/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 7277
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:5555 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 2.7.5 (default, Apr  9 2019, 14:30:50)  [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x1596fb0
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 364600 bytes (356 KB) for 4 cores
+*** Operational MODE: preforking ***
+added ../ to pythonpath.
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1596fb0 pid: 27547 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 27547)
+spawned uWSGI worker 1 (pid: 27552, cores: 1)
+spawned uWSGI worker 2 (pid: 27553, cores: 1)
+spawned uWSGI worker 3 (pid: 27554, cores: 1)
+spawned uWSGI worker 4 (pid: 27555, cores: 1)
+{address space usage: 241885184 bytes/230MB} {rss usage: 15392768 bytes/14MB} [pid: 27555|app: 0|req: 1/1] 61.149.179.190 () {48 vars in 872 bytes} [Tue May 28 11:58:36 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 244813824 bytes/233MB} {rss usage: 18337792 bytes/17MB} [pid: 27555|app: 0|req: 2/2] 61.149.179.190 () {44 vars in 922 bytes} [Tue May 28 14:25:18 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 244813824 bytes/233MB} {rss usage: 18337792 bytes/17MB} [pid: 27555|app: 0|req: 3/3] 61.149.179.190 () {44 vars in 922 bytes} [Tue May 28 14:26:58 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 241885184 bytes/230MB} {rss usage: 15392768 bytes/14MB} [pid: 27554|app: 0|req: 1/4] 61.149.179.190 () {44 vars in 922 bytes} [Tue May 28 14:26:58 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246337536 bytes/234MB} {rss usage: 19861504 bytes/18MB} [pid: 27555|app: 0|req: 4/5] 61.149.179.190 () {44 vars in 930 bytes} [Tue May 28 14:26:58 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246337536 bytes/234MB} {rss usage: 19861504 bytes/18MB} [pid: 27555|app: 0|req: 5/6] 61.149.179.190 () {44 vars in 922 bytes} [Tue May 28 14:32:17 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27555|app: 0|req: 6/7] 61.149.179.190 () {44 vars in 922 bytes} [Tue May 28 14:32:17 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 241885184 bytes/230MB} {rss usage: 15511552 bytes/14MB} [pid: 27554|app: 0|req: 2/8] 61.149.179.190 () {44 vars in 930 bytes} [Tue May 28 14:32:17 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+[2019-05-28 14:32:26,816] ERROR in app: Exception on /down/jushi/banner/bangongshi_huanjing.jpeg [GET]
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./run.py", line 52, in down_img
+    image_data = open(upload_path, "rb").read()
+IOError: [Errno 2] No such file or directory: u'./static/images/jushi/banner/bangongshi_huanjing.jpeg'
+{address space usage: 247078912 bytes/235MB} {rss usage: 20721664 bytes/19MB} [pid: 27555|app: 0|req: 7/9] 61.149.179.190 () {44 vars in 947 bytes} [Tue May 28 14:32:26 2019] GET /down/jushi/banner/bangongshi_huanjing.jpeg => generated 290 bytes in 2 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+[2019-05-28 14:32:26,868] ERROR in app: Exception on /down/jushi/banner/me ndian.jpeg [GET]
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./run.py", line 52, in down_img
+    image_data = open(upload_path, "rb").read()
+IOError: [Errno 2] No such file or directory: u'./static/images/jushi/banner/me ndian.jpeg'
+{address space usage: 242147328 bytes/230MB} {rss usage: 15798272 bytes/15MB} [pid: 27553|app: 0|req: 1/10] 61.149.179.190 () {44 vars in 927 bytes} [Tue May 28 14:32:26 2019] GET /down/jushi/banner/me%20ndian.jpeg => generated 290 bytes in 3 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20762624 bytes/19MB} [pid: 27555|app: 0|req: 8/11] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:32:35 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+[2019-05-28 14:33:25,804] ERROR in app: Exception on /down/jushi/banner/bangongshi_huanjing.jpeg [GET]
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./run.py", line 52, in down_img
+    image_data = open(upload_path, "rb").read()
+IOError: [Errno 2] No such file or directory: u'./static/images/jushi/banner/bangongshi_huanjing.jpeg'
+{address space usage: 247078912 bytes/235MB} {rss usage: 20762624 bytes/19MB} [pid: 27555|app: 0|req: 9/12] 61.149.179.190 () {46 vars in 865 bytes} [Tue May 28 14:33:25 2019] GET /down/jushi/banner/bangongshi_huanjing.jpeg => generated 290 bytes in 1 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20762624 bytes/19MB} [pid: 27555|app: 0|req: 10/13] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:35:38 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 242147328 bytes/230MB} {rss usage: 15929344 bytes/15MB} [pid: 27553|app: 0|req: 2/14] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:35:38 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20762624 bytes/19MB} [pid: 27555|app: 0|req: 11/15] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:35:38 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20762624 bytes/19MB} [pid: 27555|app: 0|req: 12/16] 61.149.179.190 () {44 vars in 947 bytes} [Tue May 28 14:35:42 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20762624 bytes/19MB} [pid: 27555|app: 0|req: 13/17] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:35:57 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20762624 bytes/19MB} [pid: 27555|app: 0|req: 14/18] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:35:58 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20762624 bytes/19MB} [pid: 27555|app: 0|req: 15/19] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:38:13 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20779008 bytes/19MB} [pid: 27555|app: 0|req: 16/20] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:38:13 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20779008 bytes/19MB} [pid: 27555|app: 0|req: 17/21] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:38:13 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+[2019-05-28 14:38:21,338] ERROR in app: Exception on /down/jushi/activity/chunyou.jpeg [GET]
+Traceback (most recent call last):
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib64/python2.7/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "./run.py", line 52, in down_img
+    image_data = open(upload_path, "rb").read()
+IOError: [Errno 2] No such file or directory: u'./static/images/jushi/activity/chunyou.jpeg'
+{address space usage: 247078912 bytes/235MB} {rss usage: 20779008 bytes/19MB} [pid: 27555|app: 0|req: 18/22] 61.149.179.190 () {44 vars in 927 bytes} [Tue May 28 14:38:21 2019] GET /down/jushi/activity/chunyou.jpeg => generated 290 bytes in 1 msecs (HTTP/1.1 500) 2 headers in 84 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 19/23] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:38:50 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 241885184 bytes/230MB} {rss usage: 15511552 bytes/14MB} [pid: 27554|app: 0|req: 3/24] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:38:50 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 245092352 bytes/233MB} {rss usage: 18771968 bytes/17MB} [pid: 27553|app: 0|req: 3/25] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:38:50 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 20/26] 61.149.179.190 () {44 vars in 925 bytes} [Tue May 28 14:38:51 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 21/27] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:42:38 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 4/28] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:42:38 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 22/29] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:42:38 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 23/30] 61.149.179.190 () {44 vars in 925 bytes} [Tue May 28 14:42:58 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 24/31] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:43:26 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 245362688 bytes/233MB} {rss usage: 19042304 bytes/18MB} [pid: 27553|app: 0|req: 4/32] 61.149.179.190 () {44 vars in 947 bytes} [Tue May 28 14:43:36 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 25/33] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:43:36 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 18 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 241885184 bytes/230MB} {rss usage: 15392768 bytes/14MB} [pid: 27552|app: 0|req: 1/34] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:43:36 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 26/35] 61.149.179.190 () {44 vars in 925 bytes} [Tue May 28 14:43:53 2019] GET /down/jushi/teacher/teachers.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 27/36] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:44:26 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246620160 bytes/235MB} {rss usage: 20299776 bytes/19MB} [pid: 27553|app: 0|req: 5/37] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:44:26 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 241885184 bytes/230MB} {rss usage: 15511552 bytes/14MB} [pid: 27552|app: 0|req: 2/38] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:44:26 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 28/39] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:44:33 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 3 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 29/40] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:44:33 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 30/41] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:44:33 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 31/42] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:44:45 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 32/43] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:44:45 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 33/44] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:44:45 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 34/45] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:44:56 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 5/46] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:44:56 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 35/47] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:44:56 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 36/48] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:45:11 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 37/49] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:45:11 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 38/50] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:45:11 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 39/51] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:45:31 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 6/52] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:45:32 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246620160 bytes/235MB} {rss usage: 20299776 bytes/19MB} [pid: 27553|app: 0|req: 6/53] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:45:32 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 40/54] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:45:43 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 7/55] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:45:44 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 41/56] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:45:44 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 42/57] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:45:55 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 43/58] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:45:55 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246620160 bytes/235MB} {rss usage: 20299776 bytes/19MB} [pid: 27553|app: 0|req: 7/59] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:45:55 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 44/60] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:46:10 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 8/61] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:46:11 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 8/62] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:46:11 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 45/63] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:52:47 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 46/64] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:52:47 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 9/65] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:52:47 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 47/66] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:52:57 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 48/67] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:52:58 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 49/68] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:52:58 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 50/69] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:53:16 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 3/70] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:53:16 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 51/71] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:53:16 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 52/72] 61.149.179.190 () {44 vars in 947 bytes} [Tue May 28 14:53:21 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 53/73] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:53:26 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 54/74] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:53:41 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 55/75] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:55:05 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 10/76] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:55:05 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 56/77] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:55:05 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 57/78] 61.149.179.190 () {44 vars in 947 bytes} [Tue May 28 14:55:08 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 11/79] 61.149.179.190 () {44 vars in 927 bytes} [Tue May 28 14:55:08 2019] GET /down/jushi/logo/QQ20190510-0.jpg => generated 128083 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 58/80] 61.149.179.190 () {44 vars in 923 bytes} [Tue May 28 14:55:17 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 59/81] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 14:55:28 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 60/82] 106.121.12.76 () {48 vars in 1017 bytes} [Tue May 28 15:05:31 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 9/83] 106.121.12.76 () {48 vars in 1025 bytes} [Tue May 28 15:05:31 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 12/84] 106.121.12.76 () {48 vars in 1017 bytes} [Tue May 28 15:05:31 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 61/85] 211.94.141.2 () {48 vars in 1019 bytes} [Tue May 28 15:05:57 2019] GET /down/jushi/logo/QQ20190510-0.jpg => generated 128083 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 13/86] 211.94.141.2 () {48 vars in 1023 bytes} [Tue May 28 15:05:57 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 4/87] 211.94.141.2 () {48 vars in 1015 bytes} [Tue May 28 15:05:57 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 10/88] 211.94.141.2 () {48 vars in 1039 bytes} [Tue May 28 15:05:57 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 62/89] 43.228.36.122 () {46 vars in 855 bytes} [Tue May 28 15:07:25 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 14/90] 43.228.36.122 () {46 vars in 855 bytes} [Tue May 28 15:07:25 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 11/91] 43.228.36.122 () {46 vars in 863 bytes} [Tue May 28 15:07:25 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 63/92] 43.228.36.122 () {46 vars in 868 bytes} [Tue May 28 15:12:07 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 15/93] 43.228.36.122 () {46 vars in 868 bytes} [Tue May 28 15:12:07 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 64/94] 43.228.36.122 () {46 vars in 876 bytes} [Tue May 28 15:12:07 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 65/95] 43.228.36.122 () {46 vars in 876 bytes} [Tue May 28 15:12:21 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 66/96] 43.228.36.122 () {46 vars in 870 bytes} [Tue May 28 15:12:29 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 67/97] 43.228.36.122 () {46 vars in 872 bytes} [Tue May 28 15:12:31 2019] GET /down/jushi/logo/QQ20190510-0.jpg => generated 128083 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 12/98] 43.228.36.122 () {46 vars in 876 bytes} [Tue May 28 15:12:31 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 68/99] 43.228.36.122 () {46 vars in 868 bytes} [Tue May 28 15:12:32 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 69/100] 43.228.36.122 () {46 vars in 892 bytes} [Tue May 28 15:12:32 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 70/101] 61.149.179.190 () {44 vars in 925 bytes} [Tue May 28 15:13:27 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 71/102] 61.149.179.190 () {44 vars in 931 bytes} [Tue May 28 15:13:29 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 72/103] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:06:03 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 16/104] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:06:03 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 13/105] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:06:03 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 73/106] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:06:06 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 74/107] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:06:06 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 17/108] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:06:06 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 75/109] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:06:10 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 14/110] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:06:10 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 18/111] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:06:10 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 76/112] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:07:05 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 15/113] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:07:05 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 19/114] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:07:05 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 77/115] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:07:11 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 16/116] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:07:11 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 20/117] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:07:11 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 78/118] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:07:28 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 79/119] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:07:53 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 17/120] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:07:53 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 5/121] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:07:53 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 80/122] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:08:41 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 6/123] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:08:41 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 81/124] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:08:41 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 82/125] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:08:58 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 83/126] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:09:02 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 21/127] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:09:02 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 84/128] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:09:02 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 85/129] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:09:05 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 86/130] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:09:05 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 87/131] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:09:05 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 88/132] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:09:22 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 89/133] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:09:30 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 18/134] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:09:30 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 7/135] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:09:30 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 90/136] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:09:37 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 91/137] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:09:37 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 92/138] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:09:37 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 93/139] 101.227.139.161 () {44 vars in 871 bytes} [Tue May 28 18:09:41 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 94/140] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:10:25 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 19/141] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:10:25 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 22/142] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:10:25 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 95/143] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:10:46 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 96/144] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:10:53 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 23/145] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:10:53 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 97/146] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:10:53 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 98/147] 101.227.139.161 () {44 vars in 871 bytes} [Tue May 28 18:11:07 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 99/148] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:11:21 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 24/149] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:11:21 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 20/150] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:11:21 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 100/151] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:11:36 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 101/152] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:11:46 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 25/153] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:11:46 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 102/154] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:11:46 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 103/155] 101.227.139.161 () {44 vars in 871 bytes} [Tue May 28 18:12:00 2019] GET /down/jushi/teacher/teachers.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 104/156] 101.227.139.161 () {44 vars in 871 bytes} [Tue May 28 18:12:17 2019] GET /down/jushi/teacher/teachers.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 105/157] 101.227.139.161 () {44 vars in 873 bytes} [Tue May 28 18:12:45 2019] GET /down/jushi/logo/QQ20190510-0.jpg => generated 128083 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 21/158] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:12:45 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 26/159] 101.227.139.161 () {44 vars in 893 bytes} [Tue May 28 18:12:45 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 106/160] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:12:45 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 107/161] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:14:35 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 22/162] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:14:35 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 8/163] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:14:35 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 108/164] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:15:24 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 27/165] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:15:24 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 109/166] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:15:24 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 110/167] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:15:28 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 23/168] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:15:28 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 9/169] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:15:28 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 111/170] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:15:45 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 112/171] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:15:48 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 28/172] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:15:48 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 113/173] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:15:48 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 114/174] 101.227.139.161 () {44 vars in 871 bytes} [Tue May 28 18:16:10 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 115/175] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:16:16 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 10/176] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:16:16 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 24/177] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:16:16 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 116/178] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:16:43 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 117/179] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:16:51 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 11/180] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:16:51 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 25/181] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:16:51 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 118/182] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:17:30 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 29/183] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:17:30 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 26/184] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:17:30 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 119/185] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:17:59 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 27/186] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:17:59 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 12/187] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:17:59 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 120/188] 101.227.139.161 () {44 vars in 871 bytes} [Tue May 28 18:18:30 2019] GET /down/jushi/teacher/teachers.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 121/189] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:18:35 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 28/190] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:18:35 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 13/191] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:18:35 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 122/192] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:19:01 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 29/193] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:19:01 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 14/194] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:19:01 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 123/195] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:19:27 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 124/196] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:19:35 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 15/197] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:19:35 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 30/198] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:19:35 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 125/199] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:19:54 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 126/200] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:20:01 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 30/201] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:20:01 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 31/202] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:20:01 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 127/203] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:20:32 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 128/204] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:20:40 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 31/205] 101.227.139.161 () {44 vars in 877 bytes} [Tue May 28 18:20:40 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 32/206] 101.227.139.161 () {44 vars in 869 bytes} [Tue May 28 18:20:40 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 129/207] 101.227.139.161 () {44 vars in 871 bytes} [Tue May 28 18:21:03 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 130/208] 211.94.141.2 () {48 vars in 1015 bytes} [Tue May 28 18:36:39 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 32/209] 211.94.141.2 () {48 vars in 1023 bytes} [Tue May 28 18:36:39 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 33/210] 211.94.141.2 () {48 vars in 1015 bytes} [Tue May 28 18:36:39 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 131/211] 211.94.141.2 () {48 vars in 1025 bytes} [Tue May 28 18:36:48 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 132/212] 211.94.141.2 () {48 vars in 1021 bytes} [Tue May 28 18:50:54 2019] GET /down/jushi/logo/QQ20190510-0.jpg => generated 128083 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 33/213] 211.94.141.2 () {48 vars in 1041 bytes} [Tue May 28 18:50:54 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 34/214] 211.94.141.2 () {48 vars in 1025 bytes} [Tue May 28 18:50:54 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27552|app: 0|req: 16/215] 211.94.141.2 () {48 vars in 1017 bytes} [Tue May 28 18:50:54 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 133/216] 106.121.12.76 () {48 vars in 1017 bytes} [Tue May 28 22:03:10 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 7 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 34/217] 106.121.12.76 () {48 vars in 1017 bytes} [Tue May 28 22:03:10 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 35/218] 106.121.12.76 () {48 vars in 1025 bytes} [Tue May 28 22:03:10 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 134/219] 106.121.12.76 () {48 vars in 1021 bytes} [Tue May 28 22:03:35 2019] GET /down/jushi/logo/QQ20190510-0.jpg => generated 128083 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 135/220] 106.121.12.76 () {48 vars in 1025 bytes} [Tue May 28 22:03:39 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 35/221] 106.121.12.76 () {48 vars in 1041 bytes} [Tue May 28 22:03:39 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 136/222] 106.121.12.76 () {48 vars in 1025 bytes} [Tue May 28 22:04:06 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 137/223] 106.121.12.76 () {48 vars in 1017 bytes} [Tue May 28 22:05:12 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 138/224] 106.121.12.76 () {48 vars in 1019 bytes} [Tue May 28 22:06:28 2019] GET /down/jushi/activity/chunyou.jpg => generated 742941 bytes in 1 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 139/225] 183.60.88.4 () {44 vars in 760 bytes} [Wed May 29 11:17:10 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 36/226] 183.60.88.4 () {44 vars in 760 bytes} [Wed May 29 11:17:10 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 12 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 36/227] 183.60.88.4 () {44 vars in 768 bytes} [Wed May 29 11:17:10 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 140/228] 183.60.88.4 () {44 vars in 768 bytes} [Wed May 29 11:17:18 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 141/229] 211.94.141.2 () {48 vars in 1017 bytes} [Wed May 29 14:14:12 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 37/230] 211.94.141.2 () {48 vars in 1017 bytes} [Wed May 29 14:14:12 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 37/231] 211.94.141.2 () {48 vars in 1025 bytes} [Wed May 29 14:14:12 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 13 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 142/232] 211.94.141.2 () {48 vars in 1025 bytes} [Wed May 29 14:14:30 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 5 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 143/233] 211.94.141.2 () {48 vars in 1021 bytes} [Wed May 29 14:14:42 2019] GET /down/jushi/logo/QQ20190510-0.jpg => generated 128083 bytes in 0 msecs (HTTP/1.1 200) 2 headers in 68 bytes (1 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 144/234] 211.94.141.2 () {48 vars in 1025 bytes} [Wed May 29 14:14:42 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 8 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 38/235] 211.94.141.2 () {48 vars in 1041 bytes} [Wed May 29 14:14:42 2019] GET /down/jushi/banner/baogongshi_huanjing.jpeg => generated 3113307 bytes in 6 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 145/236] 211.94.141.2 () {48 vars in 1017 bytes} [Wed May 29 14:14:42 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 4 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247078912 bytes/235MB} {rss usage: 20783104 bytes/19MB} [pid: 27555|app: 0|req: 146/237] 223.166.222.11 () {42 vars in 700 bytes} [Wed May 29 14:39:26 2019] GET /down/jushi/banner/mendian.jpeg => generated 2843143 bytes in 10 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 246816768 bytes/235MB} {rss usage: 20340736 bytes/19MB} [pid: 27554|app: 0|req: 39/238] 223.166.222.11 () {42 vars in 700 bytes} [Wed May 29 14:39:26 2019] GET /down/jushi/banner/zongshi.jpeg => generated 4845891 bytes in 11 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
+{address space usage: 247095296 bytes/235MB} {rss usage: 20774912 bytes/19MB} [pid: 27553|app: 0|req: 38/239] 223.166.222.11 () {42 vars in 708 bytes} [Wed May 29 14:39:26 2019] GET /down/jushi/banner/xuanchuantu.jpeg => generated 4367879 bytes in 9 msecs (HTTP/1.1 200) 2 headers in 69 bytes (2 switches on core 0)
