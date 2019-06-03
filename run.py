@@ -61,7 +61,7 @@ def index(imageid):
     resp = Response(image, mimetype="image/jpeg")
     return resp
 
-@app.route('/wx_pub',methods=['GET','POST'])
+@app.route('/token',methods=['GET','POST'])
 def wx():
     if request.method == 'GET':
         signature = request.args.get('signature')
