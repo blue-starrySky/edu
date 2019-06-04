@@ -5,6 +5,8 @@ from flask import Flask, render_template, request, redirect, url_for, make_respo
 from werkzeug.utils import secure_filename
 import os
 from datetime import timedelta
+from robot import myrobot
+from werobot.contrib.flask import make_view
 logging.basicConfig(filename="./flask.log")
 # 设置允许的文件格式
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'JPG', 'PNG', 'bmp', 'jpeg'])
@@ -87,25 +89,14 @@ def wx():
 
 
 
-from werobot import WeRoBot
-robot = WeRoBot()
-robot.config["APP_ID"] = "wx70c92b390dfb5b31"
-robot.config["APP_SECRET"] = "5dbdbdcaebee4ccb61ab6478be17ded9"
 
-client = robot.client
-client.create_menu({
-    "button":[{
-         "type": "click",
-         "name": "今日歌曲",
-         "key": "music"
-    }]
-})
-@robot.key_click("music")
-def music(message):
-    return '你点击了“今日歌曲”按钮'
 
 if __name__ == '__main__':
 # app.debug = True
 
   #  app.run(host="0.0.0.0",port=5555,ssl_context=('2153883_xn--5vrwma.com.pem', '2153883_xn--5vrwma.com.key'))
+    app.add_url_rule(rule='/myWerobot/', # WeRoBot 挂载地址
+                 endpoint='werobot', # Flask 的 endpoint
+                 view_func=make_view(myrobot),
+                 methods=['GET', 'POST'])
     app.run(host="0.0.0.0",port=5555)
