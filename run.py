@@ -5,7 +5,7 @@ from flask import Flask, render_template, request, redirect, url_for, make_respo
 from werkzeug.utils import secure_filename
 import os
 from datetime import timedelta
-from robot import myrobot
+from myWerobot import myrobot
 from werobot.contrib.flask import make_view
 logging.basicConfig(filename="./flask.log")
 # 设置允许的文件格式
